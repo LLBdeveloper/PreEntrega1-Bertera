@@ -1,28 +1,3 @@
-// import './App.css';
-
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <p>
-//           INFLACION 
-//         </p>
-//         <a
-//           className="App-link"
-//           href="https://www.instagram.com/inflacion.billeterasdepapel/"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           IG
-//         </a>
-//       </header>
-//     </div>
-//   );
-// }
-
-// export default App;
-
 import React, { Component } from "react";
 import "./App.css";
 // COMPONENTS
@@ -54,8 +29,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
-
-
-
-//   http://placekitten.com/200/300
